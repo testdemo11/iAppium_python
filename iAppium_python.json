@@ -8,5 +8,5 @@
         "appPackage": "com.example.android.contactmanager",
         "appActivity": ".ContactManager"
     },
-    "appium_server_url": "http:// 192.168.3.37:4723/wd/hub"
+    "appium_server_url": "http://192.168.3.37:4723/wd/hub"
 }
